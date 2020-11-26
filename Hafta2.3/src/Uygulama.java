@@ -25,3 +25,14 @@ public class Uygulama {
 	}
 
 }
+
+class IsteVize{
+	private int a;
+	private double b;
+	String ad;
+	public IsteVize(String ad, double b, int a) {
+		this.a=a;
+		this.b=b;
+		this.ad=ad;		
+	}
+}
