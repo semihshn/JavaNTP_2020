@@ -1,4 +1,4 @@
-
+//Kurucular ve Yikici
 public class Kurucular {
 	public int a;
 	public String ad;
