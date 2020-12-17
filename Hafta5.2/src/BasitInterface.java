@@ -23,7 +23,9 @@ public interface BasitInterface {
 
 interface BasitInterface2{
 	int Durum1();
+	
 	double Durum2(double a);
+	
 }
 
 
