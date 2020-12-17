@@ -11,8 +11,7 @@ public class AbstractSiniflar {
 		Asker deneme=new Asker() {
 			
 			public void Yetki() {
-				// TODO Auto-generated method stub
-				
+				//
 			}
 		};
 		
