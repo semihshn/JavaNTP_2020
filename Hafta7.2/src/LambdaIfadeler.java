@@ -36,11 +36,13 @@ public class LambdaIfadeler {
 		LambdaReturn obj4=()->{return 5*5;};		
 		LambdaReturn obj5=()-> 5*5;
 		
+		
+		
 		LambdaReturn2 obj6=(a)->{return a*a;};
 		//Eger fonksiyon tek satir olacaksa { } kullanilmayabilir
 		LambdaReturn2 obj7=(a)->a*a;
 		//Eger lambda ile kullanilacak fonksiyon tek parametreli ise ( ) kullanilmayabilir
-		LambdaReturn2 obj8=a->a*a;
+		LambdaReturn2 obj8=a->a*a*a;
 		
 		LambdaVoid obj9=a-> System.out.println("Merhaba" + a);
 		//void turunden gerceklestirme

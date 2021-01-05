@@ -26,6 +26,7 @@ interface LabmdaStatic{
 
 interface LambdaReturn{
 	public double KareAl();
+	//public double KareAl2();
 }
 
 interface LambdaReturn2{
