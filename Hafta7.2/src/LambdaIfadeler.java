@@ -6,6 +6,8 @@ public class LambdaIfadeler {
 		//Interfaceden nesne turetme yollari
 		
 		
+		
+		
 		//1.METOT
 		LambdaIfadeleri obj1=new LambdaIfadeleri() {			
 			@Override
