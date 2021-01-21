@@ -13,6 +13,9 @@ public interface BasitInterface {
 	//static double Deneme2();
 	
 	//Interface de abstract tanimalam disinda fonksiyon tanimi yapilamaz
+	
+	//JDK 8 ile birlikte final değişken tanımlaması yapılabilirken , fonksiyon tanımlaması yapılamaz , static ve default fonksiyon tanımlaması yapılabilir.
+	
 	/*
 	public String Deneme3(){
 		System.out.println("Deneme");
@@ -54,7 +57,7 @@ class TestInterface2 implements BasitInterface,BasitInterface2{
 	public double Durum2(double a) {
 		return 0;
 	}
-	//Yen�i classa kalitimdaki sekilde yeni fonksiyon eklemeleri yapilabilir
+	//Yenþi classa kalitimdaki sekilde yeni fonksiyon eklemeleri yapilabilir
 	public void Deneme3(){
 		
 	}
