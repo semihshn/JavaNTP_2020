@@ -2,7 +2,7 @@
 public class EnumlarUygulama {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub.
 		System.out.println(Islemler.Carp.Hesapla(15, 5));
 	}
 
